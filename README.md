@@ -1,4 +1,4 @@
-Working Groups
+Psychology and UX
 =====================
 A template for the EI2030 working groups. The contents of this repository are then aggregated to the main ei2030.org website using Gatsby.
 
