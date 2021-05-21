@@ -5,7 +5,7 @@
 
 This is a document to gather a high-level overview of what knowledge we should gather in regards to the UX of e-ink. Please contribute and add any questions you think relevant.
 
-###### tags: `psych-ux` `ux` `high-level overview`  
+###### tags: `psych-ux` `ux` `general`
 
 <br/>
 <br/>
