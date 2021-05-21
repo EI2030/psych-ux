@@ -1,5 +1,8 @@
 # Eink UX - High Level Overview
 
+[![hackmd-github-sync-badge](https://hackmd.io/Wf0a9-dSQxiSkA9DVsfgIw/badge)](https://hackmd.io/Wf0a9-dSQxiSkA9DVsfgIw)
+
+
 This is a document to gather a high-level overview of what knowledge we should gather in regards to the UX of e-ink. Please contribute and add any questions you think relevant.
 
 ###### tags: `psych-ux` `ux` `high-level overview`  
